@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pets6
+- 👀 I’m interested in making games
+- 🌱 I’m currently learning game dev
+- 😄 Pronouns: he/him
